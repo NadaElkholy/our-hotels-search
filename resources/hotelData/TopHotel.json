@@ -1,7 +1,7 @@
 [
     {
         "hotelName": "Top Hotel 1",
-        "rate": "5",
+        "rate": "*****",
         "price": "100.0",
         "amenities": {
             "0": "Free Wifi internet Access",
@@ -13,7 +13,7 @@
     },
     {
         "hotelName": "Top Hotel 2",
-        "rate": "4",
+        "rate": "****",
         "price": "200.0",
         "discount": "20",
         "amenities": {
@@ -24,7 +24,7 @@
     },
     {
         "hotelName": "Top Hotel 3",
-        "rate": "3",
+        "rate": "***",
         "price": "300.0",
         "discount": "10",
         "amenities": {
